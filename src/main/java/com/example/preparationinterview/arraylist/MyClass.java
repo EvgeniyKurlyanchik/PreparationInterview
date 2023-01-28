@@ -1,9 +1,6 @@
 package com.example.preparationinterview.arraylist;
 
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Objects;
-
 public class MyClass {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>();
