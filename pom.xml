@@ -11,8 +11,12 @@
     <groupId>com.example</groupId>
     <artifactId>PreparationInterview</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>PreparationInterview</name>
     <description>PreparationInterview</description>
+    <modules>
+        <module>task5</module>
+    </modules>
     <properties>
         <java.version>17</java.version>
     </properties>
