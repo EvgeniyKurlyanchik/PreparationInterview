@@ -16,6 +16,7 @@
     <description>PreparationInterview</description>
     <modules>
         <module>task5</module>
+        <module>Task0105</module>
     </modules>
     <properties>
         <java.version>17</java.version>
